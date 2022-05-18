@@ -13,4 +13,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/nicholas-russell-au" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholas-russell-au" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholas-russell&show_icons=true&locale=en&layout=compact" alt="nicholas-russell" /></p>
+
